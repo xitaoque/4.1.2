@@ -1,10 +1,3 @@
-//
-//  CallAdressbookViewController.m
-//  Project17
-//
-//  Created by fighter on 15/12/22.
-//  Copyright © 2015年 Facebook. All rights reserved.
-//
 
 #import "CallAdressbookViewController.h"
 #import <AddressBookUI/AddressBookUI.h>
